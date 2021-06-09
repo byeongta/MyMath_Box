@@ -8,3 +8,6 @@ def subtract(a, b):
 
 def multy(a, b):
 	return a*b 
+
+def div(a, b):
+	return a/b
